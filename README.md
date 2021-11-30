@@ -1,7 +1,7 @@
-[![Scala CI](https://github.com/awagen/kolibri-base/actions/workflows/scala.yml/badge.svg?event=push)](https://github.com/awagen/kolibri-base/actions/workflows/scala.yml)
+# DEPRECATED Kolibri Base
 
-
-# Kolibri Base
+Note: the current repository was moved to ```https://github.com/awagen/kolibri``` to have one repo for all
+Kolibri projects. Please check the new repo location for updates.
 
 This project provides the mechanism to execute jobs based on akka, making use of clustering to distribute job batches.
 ![Alt text](images/kolibri.svg?raw=true "Kolibri Base")
